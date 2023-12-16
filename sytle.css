@@ -1,0 +1,21 @@
+html{
+    box-sizing: border-box;
+    height: 100;
+}
+
+*,
+*::before,
+*::after{
+    box-sizing: initial;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+   align-items: center;
+   background: linear-gradient(320d#eb92be#ffef78#63c9b4);
+display: flex;
+font-family: 'Dosis',sans-serif;
+font-display:swap;
+
+}
